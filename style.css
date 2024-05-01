@@ -62,4 +62,5 @@ button {
   margin: 5px;
   border: none;
   background: transparent;
+  cursor: pointer;
 }
