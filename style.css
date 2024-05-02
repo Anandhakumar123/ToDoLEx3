@@ -3,8 +3,10 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: #ddd2e0;
 }
 .container {
+  margin-top: 50px;
   border: 10px solid #bba0ca;
   border-radius: 10px;
   background: linear-gradient(135deg, #153677, #4e085f);
